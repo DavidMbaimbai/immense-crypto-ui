@@ -46,11 +46,11 @@ const Profile = () => {
                 </div>
                 <div className="flex">
                   <p className="w-[9rem]">Date Of Birth : </p>
-                  <p className="text-gray-500">{"25/09/2000"} </p>
+                  <p className="text-gray-500">{"27/12/1985"} </p>
                 </div>
                 <div className="flex">
                   <p className="w-[9rem]">Nationality : </p>
-                  <p className="text-gray-500">{"indian"} </p>
+                  <p className="text-gray-500">{"Zimbabwean"} </p>
                 </div>
               </div>
               <div className="space-y-7">
@@ -64,11 +64,11 @@ const Profile = () => {
                 </div>
                 <div className="flex">
                   <p className="w-[9rem]">Postcode : </p>
-                  <p className="text-gray-500">{345020} </p>
+                  <p className="text-gray-500">{263000} </p>
                 </div>
                 <div className="flex">
                   <p className="w-[9rem]">Country : </p>
-                  <p className="text-gray-500">{"india"} </p>
+                  <p className="text-gray-500">{"Zimbabwe"} </p>
                 </div>
               </div>
             </div>
@@ -165,7 +165,7 @@ const Profile = () => {
               </div>
               <div className="flex items-center">
                 <p className="w-[8rem]">Mobile :</p>
-                <p>+918987667899</p>
+                <p>+27733933208</p>
               </div>
               <div>
                 <Dialog>
